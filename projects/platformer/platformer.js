@@ -43,8 +43,8 @@ $(function () {
     // Create platforms
     // You must decide the x position, y position, width, and height of the platforms
     // example usage: createPlatform(x,y,width,height)
-
-
+    createPlatform(0, 300, 200, 15);
+    createPlatform(250,165,147,10);
 
     
     // TODO 2
